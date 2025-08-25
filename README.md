@@ -19,5 +19,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 #Ini di tambah di branch development
-#coba conflict branch
-belajar conflict branch
+#belajar conlfict branch
+belajar branch conflict
