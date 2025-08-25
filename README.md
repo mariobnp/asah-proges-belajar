@@ -26,3 +26,4 @@ belajar branch conflict <br>
 #ini marioo <br>
 #ini iyokk <br>
 coba squash <br>
+coba squash 1<br>
